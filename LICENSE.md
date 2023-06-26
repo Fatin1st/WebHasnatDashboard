@@ -1,8 +1,7 @@
-/***************************************************************************************
 *                                                                                      *
 *                                CODE SHOWCASE LICENSE                                 *
 *                                                                                      *
-***************************************************************************************/
+
 
 /* NOTICE: This license applies to the code contained within this repository. By accessing 
    or using the code, you agree to be bound by the terms and conditions of this license. 
@@ -23,16 +22,13 @@
    take appropriate legal action against individuals or entities found to be in 
    violation of this license. */
 
-/**************************************************************************************/
 
-***************************************************************************************
 *                                                                                      *
 *                                MPL 2.0 LICENSE                                       *
 *                                                                                      *
-***************************************************************************************/
+
 
 Mozilla Public License Version 2.0 (MPL-2.0)
 
 You can find the full text of the MPL 2.0 License at [https://opensource.org/licenses/MPL-2.0](https://opensource.org/licenses/MPL-2.0).
 
-**************************************************************************************/
